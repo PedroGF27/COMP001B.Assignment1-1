@@ -1,0 +1,17 @@
+h1 {
+    text-decoration: underline;
+}
+
+.bold-text {
+    font-weight: 1000;
+}
+
+#shrink-text {
+    font-size: 5px;
+}
+
+.border-image {
+    border: 10px solid blue;
+    margin: 25px;
+    padding: 25px;
+}
